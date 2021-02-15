@@ -17,6 +17,7 @@ public class Algorithm_prac_no34 {
 					int tmp = dist[j];
 					while (tmp > 0) {
 
+						//난 잘 모르게삳;;
 						if (data[start] == -1) {
 							data[start] = 0;
 						}
